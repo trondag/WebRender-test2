@@ -5,10 +5,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-
   <ItemGroup>
     <Reference Include="WebRender4">
-      <HintPath>..\..\WebRender4\WebRender4\bin\Debug\netcoreapp3.1\WebRender4.dll</HintPath>
+      <HintPath>..\..\trondag\WebRender4\WebRender4\bin\Debug\netcoreapp3.1\WebRender4.dll</HintPath>
     </Reference>
   </ItemGroup>
 
